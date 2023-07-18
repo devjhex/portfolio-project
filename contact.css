@@ -1,0 +1,57 @@
+:root{
+    --darkB:#010221;
+    --lightB:#0A7373;
+    --grey:#B7BF99;
+    --yellow:#EDAA25;
+    --red:#C43302;
+    --mono: "Oxygen mono", monospace;
+    --sans: Oxygen, sans-serif;
+    --roboto: 'Roboto Condensed', sans-serif;
+    --scopo: 'Scope One', serif;
+}
+body{
+    background-color: var(--yellow);
+}
+
+.contact{
+    font-family: var(--roboto);
+    font-size: 2rem;
+    width: 400px;
+    border-radius:10px;
+    padding: 10px;
+    margin: 0 auto;
+    text-align: center;
+    background-color:var(--grey);
+
+}
+.contact ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contact ul li{
+    padding: 10px;
+}
+.contact ul a{
+    font-size: 4rem;
+    color:black;
+}
+.contact ul a:hover{
+    color: var(--red);
+}
+
+@media screen and (min-width:1200px){
+    .contact{
+        width:600px;
+        background-color: transparent;
+        color:antiquewhite;
+    } 
+    .contact ul a{
+        color:white;
+    }  
+    body{
+        background-color: var(--darkB);
+    }
+    
+}
