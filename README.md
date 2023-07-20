@@ -6,3 +6,9 @@ This project was meant to test my HTML and CSS skills to the fullest where I had
 ## Tech stack 
 As mentioned the project was built with pure HTML and CSS (no frameworks used e.g tailwind or Bootstrap)
 
+## Link
+[Live Site](https://devjhex-portfolio.netlify.app/)
+
+## Screenshot
+![My screenshot](/IMG/solution.png)
+
