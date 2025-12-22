@@ -10,7 +10,7 @@ As mentioned the project was built with pure HTML and CSS (no frameworks used e.
 [Live Site](https://devjhex-portfolio.netlify.app/)
 
 ## Screenshot
-![My screenshot](/IMG/solution.png)
+![My screenshot](/IMG/solution-current.png)
 
 ## What I learned
 I learned how to use basic CSS properties to make some useful layouts and basic dialects of a static web page. This includes properties for a navigation bar and many other forms of markup.
